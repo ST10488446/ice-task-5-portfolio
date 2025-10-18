@@ -22,7 +22,7 @@ It includes an introduction, a portfolio section, and contact information, style
 ##  Self-Reflection
 
 ### What I Learned
-I practiced using semantic HTML (`header`, `main`, `section`, `footer`) and improved my CSS styling for layout and readability. I also learned how to structure a personal portfolio site.
+I practiced using semantic HTML (header, main, section, footer) and improved my CSS styling for layout and readability. I also learned how to structure a personal portfolio site.
 
 ### Challenges I Faced
 Balancing design and simplicity was tricky — I had to keep the layout clean while still making it engaging.  
