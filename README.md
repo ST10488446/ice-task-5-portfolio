@@ -1,7 +1,7 @@
 # ICE Task 5: Meet the Web Developer
-# Student Name: Nontethelelo Duma 
-# Student Number: ST10488446
-# Module code: WEDE5020 
+Student Name: Nontethelelo Duma 
+ Student Number: ST10488446
+ Module code: WEDE5020 
 
 
 ## Overview
